@@ -1,2 +1,2 @@
-# arun.github.io
+# arunreghunath.github.io
 My github.io repo
